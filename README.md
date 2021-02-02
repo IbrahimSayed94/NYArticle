@@ -1,16 +1,16 @@
-# NYArticle
+# NYArticle <br />
 
 Simple app fetch most popular articles from NY time api from this [URL](https://developer.nytimes.com/docs/most-popular-product/1/overview)
-
+ <br />
 
 Description:
-
-Load most popular article list from NY API.
-Show articles with the following details :-
-Article Title.
-Article Description.
-Article Image.
-Article Publish date.
+ <br />
+Load most popular article list from NY API. <br />
+Show articles with the following details :- <br />
+Article Title. <br />
+Article Description. <br />
+Article Image. <br />
+Article Publish date. <br />
 
 Screenshot
 
