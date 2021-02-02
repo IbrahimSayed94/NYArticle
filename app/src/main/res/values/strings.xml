@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NY-PopularArticles</string>
+
+    <string name="test_title">Fauci on What Working for Trump Was Really Like</string>
+    <string name="test_description">From denialism to death threats, Dr. Anthony S. Fauci describes a fraught year as an adviser to President Donald J. Trump on the Covid-19 pandemic.</string>
+    <string name="test_date">2021-01-24</string>
+    <string name="something_wrong">Something went wrong</string>
+
+</resources>
